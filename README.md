@@ -29,10 +29,8 @@ Here are some ideas to get you started:
 I'm a Computer Science student at **IIIT Sri City** with a passion for the low-level magic that makes computers run. While others look at screens, I prefer looking at memory addresses and registers.
 
 * 🔭 I’m currently working on **System Design and OS Architecture**.
-* 🌱 I’m currently learning about **Compiler Optimization and Kernel Development**.
+* 🌱 I’m currently learning about **Operating system and Kernel Development**.
 * 👯 I’m looking to collaborate on **Open Source C/C++ Projects**.
-* ⚡ Fun fact: I probably know how your memory is being allocated right now.
-
 ---
 
 ### 🛠️ Tech Stack
@@ -40,7 +38,7 @@ I'm a Computer Science student at **IIIT Sri City** with a passion for the low-l
 My arsenal for building efficient, low-level software:
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,linux,bash,git,vim,vscode,cmake" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,linux,bash,git,vim,vscode" />
 </div>
 
 ---
@@ -71,7 +69,7 @@ My arsenal for building efficient, low-level software:
 ---
 
 <div align="center">
-  <p><i>Let's connect and discuss Memory Management!</i></p>
+  <p><i>Let's connect!</i></p>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
