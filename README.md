@@ -54,10 +54,9 @@ My arsenal for building efficient, low-level software:
 | **Custom Shell** | A Unix-like shell implementation with support for piping and redirection. | `C`, `Syscalls` |
 
 ---
-
 <div align="center">
   <p><i>Let's connect!</i></p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/tejasnama/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
